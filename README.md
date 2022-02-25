@@ -10,7 +10,8 @@
 	(message crypté avec des lettres d’écart).
 
 ### Test 2: Crossword
-	<img width="938" alt="Screenshot 2022-02-25 at 10 28 32 AM" src="https://user-images.githubusercontent.com/71847509/155690594-6929a6ff-7b74-4c9c-9bc6-a307b52cde73.png">
+	![alt text](https://https://github.com/Epidos/escape_game/blob/main/Screenshot%202022-02-25%20at%2010.28.32%20AM.png?raw=true)
+
 
   
 ### Test 3: Calculate me if you can
