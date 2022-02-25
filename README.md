@@ -20,24 +20,27 @@
 	His model helped establish Church's thesis, which defines the intuitive mathematical concept of computable function.
 
 ### Test 1: Decrypt me if you can
-	Ce message codé est vraiment difficile à décoder, 
-	mais comme attendu de la part du grand Alan Turing, 
-	tu as réussi à le décrypté, donc la réponse est 23         
-	(message crypté avec des lettres d’écart).
+	One of the speciality of Alan Turing was the decryption of message, use all of your nine brain and succeed to decrypt this code.
+#	
+	Ln vnbbjpn lxmn nbc eajrvnwc mroorlrun j mnlxmna,
+	vjrb lxvvn jccnwmd mn uj yjac md pajwm Jujw Cdarwp,
+	cd jb andbbr j un mnlahycn, mxwl uj anyxwbn nbc erwpc-caxrb      
 
 ### Test 2: Crossword
+	To learn more about the life of this man, try to complete this crossword.
 <p align="center">
 	<img width="80%" height="80%" src="./Screenshot%202022-02-25%20at%2010.28.32%20AM.png">
 </p>
   
 ### Test 3: Calculate me if you can
-	19 * 5 + 7 / 6  = 17
+	You're doing an escape game on Alan Turing and you think you won't do math ? LOL  
+#
 	(X * 5 + 7) / 6 = 17
-	(12 * 8 – 31) / 64/8 = 8.125
 	(Y * 8 – 31) / 64/8 = 8.125
 	Concat(X, Y) ;
 	
-  [ ] : date de naissance de Alan Turing
+### Last test: Crack the binary
+	(hint: look at the result of your previous test)
   
   
   
