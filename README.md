@@ -1,10 +1,9 @@
 # Beta : Escape game
-	today you're gooing to retrace the life of the famous computer scientist ALan Turing into this little escape game.
-	Good luck :)
-
 <p align="center">
 	<img width="25%" height="25%" src="./alanTuring.jpeg">
 </p>
+	today you're gooing to retrace the life of the famous computer scientist ALan Turing into this little escape game.
+	Good luck :)
 
 
 ## Thème : Algo et mathématique (la vie de Alan Turing)
