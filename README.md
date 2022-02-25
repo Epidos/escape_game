@@ -26,8 +26,9 @@
 	(message crypté avec des lettres d’écart).
 
 ### Test 2: Crossword
-![Screenshot](Screenshot%202022-02-25%20at%2010.28.32%20AM.png)
-
+<p align="center">
+	<img width="50%" height="50%" src="./Screenshot%202022-02-25%20at%2010.28.32%20AM.png">
+</p>
   
 ### Test 3: Calculate me if you can
 	19 * 5 + 7 / 6  = 17
