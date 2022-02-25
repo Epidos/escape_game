@@ -11,7 +11,7 @@
 
 ### Test 2: Crossword
 ![alt text](https://https://github.com/Epidos/escape_game/blob/main/Screenshot%202022-02-25%20at%2010.28.32%20AM.png?raw=true)
-
+![Screenshot](Screenshot%202022-02-25%20at%2010.28.32%20AM.png)
 
   
 ### Test 3: Calculate me if you can
