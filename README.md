@@ -1,7 +1,16 @@
 # Beta : Escape game
+	today you're gooing to retrace the life of the famous computer scientist ALan Turing into this little escape game.
+	Good luck :)
 
 ## Thème : Algo et mathématique (la vie de Alan Turing)
-
+	Alan Mathison Turing, bornJune 23, 1912in London and died onJune 7, 1954in Wilmslow, 
+	is a British mathematician and cryptologist, author of works which scientifically found computer science.
+	
+	To solve the fundamental problem of decidability in arithmetic, he presented in 1936 a thought experiment 
+	that would later be called the Turing machine and the concepts of programs and programming, which would take 
+	on their full meaning with the spread of computers, in the second half of the 20th century. 
+	
+	His model helped establish Church's thesis, which defines the intuitive mathematical concept of computable function.
 
 ### Test 1: Decrypt me if you can
 	Ce message codé est vraiment difficile à décoder, 
@@ -10,7 +19,7 @@
 	(message crypté avec des lettres d’écart).
 
 ### Test 2: Crossword
-	<img width="938" alt="Screenshot 2022-02-25 at 10 28 32 AM" src="https://user-images.githubusercontent.com/71847509/155690594-6929a6ff-7b74-4c9c-9bc6-a307b52cde73.png">
+![Screenshot](Screenshot%202022-02-25%20at%2010.28.32%20AM.png)
 
   
 ### Test 3: Calculate me if you can
