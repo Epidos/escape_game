@@ -1,8 +1,8 @@
 # Beta : Escape game
 	today you're gooing to retrace the life of the famous computer scientist ALan Turing into this little escape game.
 	Good luck :)
-	
-![Screenshot](alanTuring.jpeg)
+
+<img align="center" width="100" height="100" src="./alanTuring.jpeg">
 
 ## Thème : Algo et mathématique (la vie de Alan Turing)
 	Alan Mathison Turing, bornJune 23, 1912in London and died onJune 7, 1954in Wilmslow, 
