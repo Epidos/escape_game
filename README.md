@@ -3,7 +3,7 @@
 	Good luck :)
 
 <p align="center">
-	<img src="./alanTuring.jpeg">
+	<img width="50%" height="50%" src="./alanTuring.jpeg">
 </p>
 
 
