@@ -27,7 +27,7 @@
 
 ### Test 2: Crossword
 <p align="center">
-	<img width="50%" height="50%" src="./Screenshot%202022-02-25%20at%2010.28.32%20AM.png">
+	<img width="70%" height="70%" src="./Screenshot%202022-02-25%20at%2010.28.32%20AM.png">
 </p>
   
 ### Test 3: Calculate me if you can
