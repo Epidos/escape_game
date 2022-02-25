@@ -8,10 +8,10 @@
 	tu as réussi à le décrypté, donc la réponse est 10         
 	(message crypté avec des lettres d’écart).
 
-  ### : mot croisé (qui donne un message) (inspiré de la vie de Turing)
+  ### Mot croisé: (qui donne un message) (inspiré de la vie de Turing)
 	
   
-  ### : Déchiffre moi si tu peux
+  ### Déchiffre moi si tu peux
               19 * 5 + 7 / 6  = 17
 	      (X * 5 + 7) / 6 = 17
 	      (12 * 8 – 31) / 64/8 = 8.125
